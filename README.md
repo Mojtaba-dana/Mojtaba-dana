@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mojtaba-dana
-- 👀 I’m interested in deloping mobile apps
+- 👀 I’m interested in developing mobile apps
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me by my email address : mojymojy6@gmail.com
